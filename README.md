@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently working on **Centurion university**
 
-- 👯 I’m looking to collaborate on **Frontend project**
-
-- 🤝 I’m looking for help with new project. **Movie website**
-
-- 💬 Ask me about on **HTML ,CSS ,JAVASCRIPT**
+- 👯 I’m looking to collaborate on **Full-Stack project**
 
 - 📫 How to reach me **samalbismay2233@gmail.com**
 
